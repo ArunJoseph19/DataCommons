@@ -14,7 +14,15 @@
 
 <br/>
 
+## 📸 Screenshots
 
+<div align="center">
+  <img src="docs/assets/city-map.png" width="300" alt="City Map Screen"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/my-data.png" width="300" alt="My Data Screen"/>
+</div>
+
+---
 
 ## ✨ Features
 
