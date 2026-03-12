@@ -44,7 +44,7 @@ class _SignupScreenState extends ConsumerState<SignupScreen> {
     state.whenOrNull(
       data: (user) {
         if (user != null && mounted) {
-          context.go('/dashboard');
+          context.go('/city-map');
         }
       },
       error: (error, _) {
