@@ -17,9 +17,17 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="docs/assets/city-map.png" width="300" alt="City Map Screen"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/assets/my-data.png" width="300" alt="My Data Screen"/>
+  <img src="docs/assets/Screenshot_1773349037.png" width="220" alt="City Map Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/Screenshot_1773349051.png" width="220" alt="My Data Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/Screenshot_1773349091.png" width="220" alt="Profile Screen"/>
+  <br/><br/>
+  <img src="docs/assets/Screenshot_1773349055.png" width="220" alt="GPS Traces"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/Screenshot_1773349062.png" width="220" alt="Step Counter"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/Screenshot_1773349078.png" width="220" alt="Altitude & DEM"/>
 </div>
 
 ---
