@@ -14,21 +14,7 @@
 
 <br/>
 
-## 📸 Screenshots
 
-> **Note to contributor:** *Replace the image URLs below with your own actual screenshots.*
-
-<div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=City+Map+Screen" width="200" alt="City Map Screen"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=My+Data+Screen" width="200" alt="My Data Screen"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Sensor+Chart" width="200" alt="Sensor Chart"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=GPS+Trace" width="200" alt="GPS Trace"/>
-</div>
-
----
 
 ## ✨ Features
 
@@ -103,6 +89,3 @@ The file will be output to: `build/app/outputs/flutter-apk/app-release.apk`
 
 Feel free to fork this project, submit PRs, or open issues. All contributions that improve the sensor readings or add useful visualizations are welcome!
 
-<div align="center">
-  <sub>Built with ❤️ by Arun Joseph</sub>
-</div>
